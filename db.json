@@ -1,10 +1,54 @@
 {
-	"todos": [],
-	"comments": [
+	"todos": [
 		{
-			"id": 0,
-			"content": "Wow such content!",
-			"username": "zero_cool"
+			"title": "Use React",
+			"completed": false,
+			"id": "464d59ec-e371-4a52-ac33-42c9fcac23d3",
+			"created": "2021-09-18T17:17:56.500Z"
+		},
+		{
+			"title": "Use a CSS framework of your choice",
+			"completed": false,
+			"id": "464d59ec-e371-4a52-ac33-42c9fcac23d3",
+			"created": "2021-09-18T17:17:56.500Z"
+		},
+		{
+			"title": "Use a CSS convention of your choice (Preprocessors, Modules, CSS-in-JS, etc.)",
+			"completed": false,
+			"id": "464d59ec-e371-4a52-ac33-42c9fcac23d3",
+			"created": "2021-09-18T17:17:56.500Z"
+		},
+		{
+			"title": "Implement all CRUD actions",
+			"completed": false,
+			"id": "464d59ec-e371-4a52-ac33-42c9fcac23d3",
+			"created": "2021-09-18T17:17:56.500Z"
+		},
+		{
+			"title": "Implement routing",
+			"completed": false,
+			"id": "464d59ec-e371-4a52-ac33-42c9fcac23d3",
+			"created": "2021-09-18T17:17:56.500Z"
+		},
+		{
+			"title": "Add a persistence layer",
+			"completed": false,
+			"id": "464d59ec-e371-4a52-ac33-42c9fcac23d3",
+			"created": "2021-09-18T17:17:56.500Z"
+		},
+		{
+			"title": "Create an API",
+			"completed": false,
+			"id": "464d59ec-e371-4a52-ac33-42c9fcac23d3",
+			"created": "2021-09-18T17:17:56.500Z"
+		},
+		{
+			"title": "Deploy the application",
+			"completed": false,
+			"id": "464d59ec-e371-4a52-ac33-42c9fcac23d3",
+			"created": "2021-09-18T17:17:56.500Z"
 		}
 	]
 }
+
+
